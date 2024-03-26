@@ -30,4 +30,4 @@
 - Open Expo Go app and scan QR code to connect to server and see the application running in your phone.
 - Also tested functionalities and responsiveness in different mobiles
 
-#### GIT link:
+#### GIT link: https://github.com/manojkumar961996/FoodRecipeFinderMobileApp
